@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="1424.6868"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-723.000061 -603.000000 1424.686768 1257.000000" height="1257.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path stroke-linecap="round" fill="none" class="id_001p id_014v"
+              d="M -132.358246,191.647583 A 133.911178,133.911178 0,0 1,-11.391698,126.390724"
+              stroke="#a856bc" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_023p id_005v"
+              d="M 169.152328,-582.937622 A 72.716557,72.716557 0,0 1,205.264801,-530.892578"
+              stroke="#a856bc" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_024p id_004v"
+              d="M 283.780701,-91.550941 A 80.872482,80.872482 0,0 1,228.896271,-42.999886"
+              stroke="#a856bc" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_002p id_013v"
+              d="M -266.808411,-224.624481 A 129.135190,129.135190 0,0 1,-257.218506,-355.959320"
+              stroke="#a856bc" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_003p id_014v"
+              d="M -103.723389,103.305061 A 100.443836,100.443836 0,0 1,-7.889134,118.403137"
+              stroke="#a856bc" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_035p id_009v"
+              d="M 1.608780,-161.687012 A 70.973107,70.973107 0,0 1,-12.675449,-102.156784"
+              stroke="#a856bc" stroke-width="8.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_004p id_011v"
+              d="M -273.048920,409.516113 A 97.438478,97.438478 0,0 1,-359.543732,374.331757"
+              stroke="#a856bc" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_025p id_002v"
+              d="M -166.873917,-59.273502 A 86.358404,86.358404 0,0 1,-98.214211,-18.327513"
+              stroke="#a856bc" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_005p id_013v"
+              d="M -236.188324,-477.131287 A 101.931492,101.931492 0,0 1,-240.495117,-378.408203"
+              stroke="#a856bc" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_026p id_003v"
+              d="M 109.103157,23.818056 A 81.716305,81.716305 0,0 1,74.252907,-41.804836"
+              stroke="#a856bc" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_027p id_008v"
+              d="M 260.441071,213.012482 A 72.109143,72.109143 0,0 1,208.060074,178.723541"
+              stroke="#a856bc" stroke-width="7.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_036p id_014v"
+              d="M 81.554398,148.185730 A 77.661003,77.661003 0,0 1,13.103397,136.930847"
+              stroke="#a856bc" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_028p id_012v"
+              d="M -586.072144,83.960091 A 82.971016,82.971016 0,0 1,-600.255066,9.470570"
+              stroke="#a856bc" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_006p id_011v"
+              d="M -384.561523,458.907043 A 90.865380,90.865380 0,0 1,-376.225952,373.903961"
+              stroke="#a856bc" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_007p id_005v"
+              d="M 328.965546,-477.030914 A 117.192620,117.192620 0,0 1,215.464203,-506.512329"
+              stroke="#a856bc" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_008p id_013v"
+              d="M -335.373413,-438.801392 A 103.419726,103.419726 0,0 1,-253.692581,-380.045898"
+              stroke="#a856bc" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_009p id_007v"
+              d="M 514.400269,-136.110092 A 97.218503,97.218503 0,0 1,445.555420,-73.420425"
+              stroke="#a856bc" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_010p id_013v"
+              d="M -142.272308,-294.851410 A 116.630778,116.630778 0,0 1,-242.505585,-354.402130"
+              stroke="#a856bc" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_029p id_011v"
+              d="M -465.123169,319.888550 A 98.400703,98.400703 0,0 1,-376.119354,351.772736"
+              stroke="#a856bc" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_030p id_009v"
+              d="M -75.690308,-135.771454 A 66.980251,66.980251 0,0 1,-28.615858,-104.810905"
+              stroke="#a856bc" stroke-width="14.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_039p id_010v"
+              d="M 139.593430,642.455200 A 116.142179,116.142179 0,0 1,34.276634,593.833313"
+              stroke="#a856bc" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_031p id_002v"
+              d="M -186.738541,38.680714 A 96.923443,96.923443 0,0 1,-105.839775,-6.690723"
+              stroke="#a856bc" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_011p id_004v"
+              d="M 277.841980,53.107895 A 103.597694,103.597694 0,0 1,216.231216,-26.713539"
+              stroke="#a856bc" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_032p id_008v"
+              d="M 173.260254,228.629181 A 67.069992,67.069992 0,0 1,191.374069,175.161209"
+              stroke="#a856bc" stroke-width="16.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_040p id_014v"
+              d="M 42.674232,222.158737 A 95.086240,95.086240 0,0 1,1.225820,141.677338"
+              stroke="#a856bc" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_012p id_014v"
+              d="M -60.226006,233.636307 A 112.137065,112.137065 0,0 1,-9.625990,134.661240"
+              stroke="#a856bc" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_013p id_011v"
+              d="M -350.882324,265.250671 A 92.140804,92.140804 0,0 1,-359.002258,351.828125"
+              stroke="#a856bc" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_014p id_001v"
+              d="M -341.293182,-80.671402 A 89.780461,89.780461 0,0 1,-269.094879,-123.791611"
+              stroke="#a856bc" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_015p id_010v"
+              d="M -66.984657,516.506653 A 104.928019,104.928019 0,0 1,20.781618,569.342285"
+              stroke="#a856bc" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_016p id_014v"
+              d="M 19.562944,20.354269 A 100.182822,100.182822 0,0 1,11.135973,116.686668"
+              stroke="#a856bc" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_033p id_007v"
+              d="M 523.689758,-29.304174 A 93.752997,93.752997 0,0 1,440.225220,-59.946793"
+              stroke="#a856bc" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_034p id_013v"
+              d="M -327.528961,-344.024323 A 78.142977,78.142977 0,0 1,-262.382874,-369.517975"
+              stroke="#a856bc" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_017p id_005v"
+              d="M 156.811447,-435.809692 A 88.700145,88.700145 0,0 1,194.084229,-509.728333"
+              stroke="#a856bc" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_018p id_004v"
+              d="M 220.586990,-175.235611 A 121.768578,121.768578 0,0 1,222.638321,-52.459183"
+              stroke="#a856bc" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_019p id_012v"
+              d="M -603.396973,-91.304535 A 83.054596,83.054596 0,0 1,-589.970398,-16.571789"
+              stroke="#a856bc" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_020p id_007v"
+              d="M 417.117035,-173.463303 A 95.767342,95.767342 0,0 1,436.619568,-84.216576"
+              stroke="#a856bc" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_021p id_003v"
+              d="M 103.140808,-140.466873 A 83.940388,83.940388 0,0 1,85.218826,-65.575966"
+              stroke="#a856bc" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_022p id_013v"
+              d="M -148.777344,-420.961670 A 104.138637,104.138637 0,0 1,-234.612305,-366.812561"
+              stroke="#a856bc" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_041p id_006v"
+              d="M 391.098328,268.742432 A 73.745146,73.745146 0,0 1,402.575012,205.169418"
+              stroke="#a856bc" stroke-width="16.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_037p id_006v"
+              d="M 474.057007,229.534760 A 69.076732,69.076732 0,0 1,420.011932,206.105728"
+              stroke="#a856bc" stroke-width="8.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_038p id_006v"
+              d="M 452.572784,142.736816 A 64.719503,64.719503 0,0 1,424.299683,188.247314"
+              stroke="#a856bc" stroke-width="8.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_001v id_025p"
+              d="M -241.272797,-121.219910 A 81.939630,81.939630 0,0 1,-184.974548,-72.313622"
+              stroke="#a856bc" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_027p id_006v"
+              d="M 284.971191,204.262100 A 115.602209,115.602209 0,0 1,399.256958,188.655304"
+              stroke="#a856bc" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_002p id_001v"
+              d="M -251.956848,-200.918732 A 74.305156,74.305156 0,0 1,-248.445358,-135.730087"
+              stroke="#a856bc" stroke-width="6.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_036p id_008v"
+              d="M 107.631889,138.001862 A 91.677484,91.677484 0,0 1,192.079987,156.242538"
+              stroke="#a856bc" stroke-width="8.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_016p id_004v"
+              d="M 22.371412,-2.441125 A 173.204046,173.204046 0,0 1,202.023483,-45.688480"
+              stroke="#a856bc" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_011p id_006v"
+              d="M 304.615173,61.213970 A 152.203376,152.203376 0,0 1,410.129395,180.819321"
+              stroke="#a856bc" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_011p id_007v"
+              d="M 294.242584,44.113102 A 158.978189,158.978189 0,0 1,417.891479,-69.109795"
+              stroke="#a856bc" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_011p id_008v"
+              d="M 289.595215,71.668671 A 116.851052,116.851052 0,0 1,215.411728,161.956650"
+              stroke="#a856bc" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_016p id_009v"
+              d="M 2.006965,-0.666593 A 88.584718,88.584718 0,0 1,-25.626053,-78.554169"
+              stroke="#a856bc" stroke-width="7.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_016p id_003v"
+              d="M 16.130938,-5.672503 A 74.224895,74.224895 0,0 1,61.656059,-52.326458"
+              stroke="#a856bc" stroke-width="9.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_016p id_002v"
+              d="M 0.311413,13.850973 A 88.160257,88.160257 0,0 1,-81.113144,3.116409"
+              stroke="#a856bc" stroke-width="10.0" stroke-opacity="1.0"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#5fa5fd" r="12.88" cx="-255.09999"
+                class="id_001v" cy="-123.412796" stroke="#4273b1"
+                stroke-opacity="1.0" stroke-width="2.24"/>
+        <circle fill-opacity="1.0" fill="#5fa5fd" r="12.88" cx="-91.86504"
+                class="id_002v" cy="-5.850011" stroke="#4273b1"
+                stroke-opacity="1.0" stroke-width="2.24"/>
+        <circle fill-opacity="1.0" fill="#5fa5fd" r="12.88" cx="75.2257"
+                class="id_003v" cy="-55.770996" stroke="#4273b1"
+                stroke-opacity="1.0" stroke-width="2.24"/>
+        <circle fill-opacity="1.0" fill="#5fa5fd" r="12.88" cx="215.092"
+                class="id_004v" cy="-40.66711" stroke="#4273b1"
+                stroke-opacity="1.0" stroke-width="2.24"/>
+        <circle fill-opacity="1.0" fill="#5fa5fd" r="12.88" cx="206.09747"
+                class="id_005v" cy="-516.91736" stroke="#4273b1"
+                stroke-opacity="1.0" stroke-width="2.24"/>
+        <circle fill-opacity="1.0" fill="#5fa5fd" r="12.88" cx="411.88028"
+                class="id_006v" cy="194.7094" stroke="#4273b1"
+                stroke-opacity="1.0" stroke-width="2.24"/>
+        <circle fill-opacity="1.0" fill="#5fa5fd" r="12.88" cx="431.75067"
+                class="id_007v" cy="-71.0905" stroke="#4273b1"
+                stroke-opacity="1.0" stroke-width="2.24"/>
+        <circle fill-opacity="1.0" fill="#5fa5fd" r="12.88" cx="202.03471"
+                class="id_008v" cy="166.08649" stroke="#4273b1"
+                stroke-opacity="1.0" stroke-width="2.24"/>
+        <circle fill-opacity="1.0" fill="#5fa5fd" r="12.88" cx="-22.523438"
+                class="id_009v" cy="-92.20605" stroke="#4273b1"
+                stroke-opacity="1.0" stroke-width="2.24"/>
+        <circle fill-opacity="1.0" fill="#5fa5fd" r="12.88" cx="26.898426"
+                class="id_010v" cy="581.9353" stroke="#4273b1"
+                stroke-opacity="1.0" stroke-width="2.24"/>
+        <circle fill-opacity="1.0" fill="#5fa5fd" r="12.88" cx="-367.59665"
+                class="id_011v" cy="362.87967" stroke="#4273b1"
+                stroke-opacity="1.0" stroke-width="2.24"/>
+        <circle fill-opacity="1.0" fill="#5fa5fd" r="12.88" cx="-595.1809"
+                class="id_012v" cy="-3.5775294" stroke="#4273b1"
+                stroke-opacity="1.0" stroke-width="2.24"/>
+        <circle fill-opacity="1.0" fill="#5fa5fd" r="12.88" cx="-248.61104"
+                class="id_013v" cy="-367.00067" stroke="#4273b1"
+                stroke-opacity="1.0" stroke-width="2.24"/>
+        <circle fill-opacity="1.0" fill="#5fa5fd" r="12.88" cx="2.5431843"
+                class="id_014v" cy="127.73945" stroke="#4273b1"
+                stroke-opacity="1.0" stroke-width="2.24"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="12.88" cx="-138.88362"
+                class="id_001p" cy="204.03384" stroke="#a80556"
+                stroke-opacity="1.0" stroke-width="2.24"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="12.88" cx="-259.89612"
+                class="id_002p" cy="-212.4499" stroke="#a80556"
+                stroke-opacity="1.0" stroke-width="2.24"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="12.88" cx="-116.5209"
+                class="id_003p" cy="108.98166" stroke="#a80556"
+                stroke-opacity="1.0" stroke-width="2.24"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="12.88" cx="-259.28848"
+                class="id_004p" cy="406.93726" stroke="#a80556"
+                stroke-opacity="1.0" stroke-width="2.24"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="12.88" cx="-243.28"
+                class="id_005p" cy="-489.20224" stroke="#a80556"
+                stroke-opacity="1.0" stroke-width="2.24"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="12.88" cx="-378.23813"
+                class="id_006p" cy="471.3976" stroke="#a80556"
+                stroke-opacity="1.0" stroke-width="2.24"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="12.88" cx="342.2119"
+                class="id_007p" cy="-481.5623" stroke="#a80556"
+                stroke-opacity="1.0" stroke-width="2.24"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="12.88" cx="-349.35742"
+                class="id_008p" cy="-439.47058" stroke="#a80556"
+                stroke-opacity="1.0" stroke-width="2.24"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="12.88" cx="518.00916"
+                class="id_009p" cy="-149.63695" stroke="#a80556"
+                stroke-opacity="1.0" stroke-width="2.24"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="12.88" cx="-128.28801"
+                class="id_010p" cy="-295.51422" stroke="#a80556"
+                stroke-opacity="1.0" stroke-width="2.24"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="12.88" cx="291.05185"
+                class="id_011p" cy="57.744656" stroke="#a80556"
+                stroke-opacity="1.0" stroke-width="2.24"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="12.88" cx="-58.71085"
+                class="id_012p" cy="247.55408" stroke="#a80556"
+                stroke-opacity="1.0" stroke-width="2.24"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="12.88" cx="-357.27188"
+                class="id_013p" cy="252.79381" stroke="#a80556"
+                stroke-opacity="1.0" stroke-width="2.24"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="12.88" cx="-347.5955"
+                class="id_014p" cy="-68.170166" stroke="#a80556"
+                stroke-opacity="1.0" stroke-width="2.24"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="12.88" cx="-80.97616"
+                class="id_015p" cy="516.99445" stroke="#a80556"
+                stroke-opacity="1.0" stroke-width="2.24"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="12.88" cx="13.019732"
+                class="id_016p" cy="7.97742" stroke="#a80556"
+                stroke-opacity="1.0" stroke-width="2.24"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="12.88" cx="158.17383"
+                class="id_017p" cy="-421.87613" stroke="#a80556"
+                stroke-opacity="1.0" stroke-width="2.24"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="12.88" cx="212.65096"
+                class="id_018p" cy="-186.76901" stroke="#a80556"
+                stroke-opacity="1.0" stroke-width="2.24"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="12.88" cx="-612.80475"
+                class="id_019p" cy="-101.67246" stroke="#a80556"
+                stroke-opacity="1.0" stroke-width="2.24"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="12.88" cx="407.2167"
+                class="id_020p" cy="-183.36195" stroke="#a80556"
+                stroke-opacity="1.0" stroke-width="2.24"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="12.88" cx="98.66888"
+                class="id_021p" cy="-153.73344" stroke="#a80556"
+                stroke-opacity="1.0" stroke-width="2.24"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="12.88" cx="-142.91866"
+                class="id_022p" cy="-433.67685" stroke="#a80556"
+                stroke-opacity="1.0" stroke-width="2.24"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="12.88" cx="156.35263"
+                class="id_023p" cy="-588.6093" stroke="#a80556"
+                stroke-opacity="1.0" stroke-width="2.24"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="12.88" cx="287.7802"
+                class="id_024p" cy="-104.96749" stroke="#a80556"
+                stroke-opacity="1.0" stroke-width="2.24"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="12.88" cx="-180.86967"
+                class="id_025p" cy="-58.92893" stroke="#a80556"
+                stroke-opacity="1.0" stroke-width="2.24"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="12.88" cx="121.218605"
+                class="id_026p" cy="30.833462" stroke="#a80556"
+                stroke-opacity="1.0" stroke-width="2.24"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="12.88" cx="274.4333"
+                class="id_027p" cy="213.47906" stroke="#a80556"
+                stroke-opacity="1.0" stroke-width="2.24"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="12.88" cx="-576.5581"
+                class="id_028p" cy="94.230576" stroke="#a80556"
+                stroke-opacity="1.0" stroke-width="2.24"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="12.88" cx="-478.75986"
+                class="id_029p" cy="323.05722" stroke="#a80556"
+                stroke-opacity="1.0" stroke-width="2.24"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="12.88" cx="-89.67739"
+                class="id_030p" cy="-136.37274" stroke="#a80556"
+                stroke-opacity="1.0" stroke-width="2.24"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="12.88" cx="-193.30815"
+                class="id_031p" cy="51.043568" stroke="#a80556"
+                stroke-opacity="1.0" stroke-width="2.24"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="12.88" cx="176.21016"
+                class="id_032p" cy="242.31487" stroke="#a80556"
+                stroke-opacity="1.0" stroke-width="2.24"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="12.88" cx="537.3617"
+                class="id_033p" cy="-32.317173" stroke="#a80556"
+                stroke-opacity="1.0" stroke-width="2.24"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="12.88" cx="-335.93436"
+                class="id_034p" cy="-332.82837" stroke="#a80556"
+                stroke-opacity="1.0" stroke-width="2.24"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="12.88" cx="-2.6515694"
+                class="id_035p" cy="-175.02303" stroke="#a80556"
+                stroke-opacity="1.0" stroke-width="2.24"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="12.88" cx="94.50164"
+                class="id_036p" cy="142.85948" stroke="#a80556"
+                stroke-opacity="1.0" stroke-width="2.24"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="12.88" cx="487.9335"
+                class="id_037p" cy="227.67915" stroke="#a80556"
+                stroke-opacity="1.0" stroke-width="2.24"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="12.88" cx="452.86346"
+                class="id_038p" cy="128.73984" stroke="#a80556"
+                stroke-opacity="1.0" stroke-width="2.24"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="12.88" cx="153.43481"
+                class="id_039p" cy="640.3537" stroke="#a80556"
+                stroke-opacity="1.0" stroke-width="2.24"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="12.88" cx="54.78597"
+                class="id_040p" cy="229.18056" stroke="#a80556"
+                stroke-opacity="1.0" stroke-width="2.24"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="12.88" cx="396.15875"
+                class="id_041p" cy="281.79587" stroke="#a80556"
+                stroke-opacity="1.0" stroke-width="2.24"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="22" x="-255.09999" y="-118.31831" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_001v">
+            Angelicum
+        </text>
+        <text font-size="22" x="-91.86504" y="-0.75552845" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_002v">
+            Arenella Dancing
+        </text>
+        <text font-size="22" x="75.2257" y="-51.699707" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_003v">
+            Astoria Club
+        </text>
+        <text font-size="22" x="215.092" y="-36.59582" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_004v">
+            Cinema Carcano
+        </text>
+        <text font-size="22" x="206.09747" y="-511.75574" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_005v">
+            Conservatorio (sala Verdi)
+        </text>
+        <text font-size="22" x="411.88028" y="198.71086" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_006v">
+            Teatro Lirico
+        </text>
+        <text font-size="22" x="431.75067" y="-67.089035" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_007v">
+            Teatro Nuovo
+        </text>
+        <text font-size="22" x="202.03471" y="170.16046" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_008v">
+            Teatro Odeon
+        </text>
+        <text font-size="22" x="-22.523438" y="-87.10619" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_009v">
+            Olimpia Music-Hall
+        </text>
+        <text font-size="22" x="26.898426" y="587.0325" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_010v">
+            Palazzo dello Sport
+        </text>
+        <text font-size="22" x="-367.59665" y="366.95096" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_011v">
+            Piccola Scala
+        </text>
+        <text font-size="22" x="-595.1809" y="0.4239354" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_012v">
+            Pinacoteca di Brera
+        </text>
+        <text font-size="22" x="-248.61104" y="-362.92938" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_013v">
+            Teatro alla Scala
+        </text>
+        <text font-size="22" x="2.5431843" y="131.7409" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_014v">
+            Teatro dell&apos;Arte
+        </text>
+        <text font-size="22" x="-138.88362" y="208.03531" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_001p">
+            Al Dikson
+        </text>
+        <text font-size="22" x="-259.89612" y="-208.44844" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_002p">
+            Antonino Votto
+        </text>
+        <text font-size="22" x="-116.5209" y="114.07614" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_003p">
+            Arthur Rosenberg
+        </text>
+        <text font-size="22" x="-259.28848" y="410.93872" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_004p">
+            Bruno Bartoletti
+        </text>
+        <text font-size="22" x="-243.28" y="-485.13095" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_005p">
+            Carlo Meliciani
+        </text>
+        <text font-size="22" x="-378.23813" y="476.49478" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_006p">
+            don Giuseppe Biella
+        </text>
+        <text font-size="22" x="342.2119" y="-477.56082" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_007p">
+            Edith Martelli
+        </text>
+        <text font-size="22" x="-349.35742" y="-435.46912" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_008p">
+            Enrico Mainardi
+        </text>
+        <text font-size="22" x="518.00916" y="-145.614" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_009p">
+            Flaviano Labò
+        </text>
+        <text font-size="22" x="-128.28801" y="-291.51276" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_010p">
+            Frederick Prausnitz
+        </text>
+        <text font-size="22" x="291.05185" y="61.74612" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_011p">
+            i Midas
+        </text>
+        <text font-size="22" x="-58.71085" y="252.64856" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_012p">
+            Luigi Wood
+        </text>
+        <text font-size="22" x="-357.27188" y="257.95544" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_013p">
+            Margret Graham
+        </text>
+        <text font-size="22" x="-347.5955" y="-64.1687" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_014p">
+            Mariella Adani
+        </text>
+        <text font-size="22" x="-80.97616" y="521.06573" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_015p">
+            Michael Schnaider
+        </text>
+        <text font-size="22" x="13.019732" y="11.978885" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_016p">
+            Mina
+        </text>
+        <text font-size="22" x="158.17383" y="-417.80215" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_017p">
+            Orchestra della RAI di Milano
+        </text>
+        <text font-size="22" x="212.65096" y="-182.76486" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_018p">
+            orchestra Rocker&apos;s Jazz
+        </text>
+        <text font-size="22" x="-612.80475" y="-97.60386" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_019p">
+            Polifonica ambrosiana
+        </text>
+        <text font-size="22" x="407.2167" y="-179.04897" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_020p">
+            Quartetto Urfer
+        </text>
+        <text font-size="22" x="98.66888" y="-148.63896" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_021p">
+            Raoul Magrini
+        </text>
+        <text font-size="22" x="-142.91866" y="-428.57968" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_022p">
+            Renato Capecchi
+        </text>
+        <text font-size="22" x="156.35263" y="-583.4477" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_023p">
+            André Cluytens
+        </text>
+        <text font-size="22" x="287.7802" y="-100.96603" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_024p">
+            Anna Maria Paolucci
+        </text>
+        <text font-size="22" x="-180.86967" y="-54.85764" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_025p">
+            Carla Riva
+        </text>
+        <text font-size="22" x="121.218605" y="34.90475" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_026p">
+            Carlo Zecchi
+        </text>
+        <text font-size="22" x="274.4333" y="218.57355" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_027p">
+            complesso Raoul Magrini
+        </text>
+        <text font-size="22" x="-576.5581" y="98.23204" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_028p">
+            Dennis Burk
+        </text>
+        <text font-size="22" x="-478.75986" y="327.1285" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_029p">
+            Giulietta Simionato
+        </text>
+        <text font-size="22" x="-89.67739" y="-132.30145" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_030p">
+            Graziella Sciutti
+        </text>
+        <text font-size="22" x="-193.30815" y="55.045033" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_031p">
+            I Brutos
+        </text>
+        <text font-size="22" x="176.21016" y="246.31633" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_032p">
+            Lucia Valeri
+        </text>
+        <text font-size="22" x="537.3617" y="-27.152866" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_033p">
+            Orchestra dei Pomeriggi Musicali
+        </text>
+        <text font-size="22" x="-335.93436" y="-328.7544" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_034p">
+            Orchestra del Teatro alla Scala
+        </text>
+        <text font-size="22" x="-2.6515694" y="-171.02156" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_035p">
+            Bob Azzam
+        </text>
+        <text font-size="22" x="94.50164" y="148.0211" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_036p">
+            Cosimo Di Ceglie
+        </text>
+        <text font-size="22" x="487.9335" y="231.75044" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_037p">
+            Sandra Mondaini
+        </text>
+        <text font-size="22" x="452.86346" y="132.81113" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_038p">
+            Walter Chiari
+        </text>
+        <text font-size="22" x="153.43481" y="645.4482" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_039p">
+            Henry Wilson
+        </text>
+        <text font-size="22" x="54.78597" y="233.18202" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_040p">
+            Lucio Flauto
+        </text>
+        <text font-size="22" x="396.15875" y="285.79733" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_041p">
+            Riccardo Billi
+        </text>
+    </g>
+</svg>
